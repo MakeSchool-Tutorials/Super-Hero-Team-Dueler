@@ -253,7 +253,7 @@ This is pytest version 5.1.0, imported from /usr/local/lib/python3.7/site-packag
 # Pass Your First Test
 Tests have been provided to help you with this assignment.
 
-You can download the test [here](https://github.com/MakeSchool-Tutorials/Superhero-Team-Dueler/blob/master/hero_test.py) and place it in the same folder as heroperoes.py
+You can download the test [here](https://github.com/MakeSchool-Tutorials/Superhero-Team-Dueler/blob/master/hero_test.py) and place it in the same folder as superheroes.py
 
 To run the provided tests `cd` into to the project directory in the terminal
 
